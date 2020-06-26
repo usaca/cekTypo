@@ -1,0 +1,56 @@
+a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+a:hover{
+	color: #ffbf0f;
+	text-decoration: none;
+}
+.navbar{
+	background-color: #000;	
+}
+.navbar .form-inline .btn-success{
+	background-color: transparent;
+	border: 1px solid #ffbf0f;
+	color: #ffbf0f;
+	border-radius: 20px;
+}
+.navbar .form-inline .btn-success:hover{
+	background-color: #ffbf0f;
+	color: #fff;
+}
+.konten{
+	margin-top: 90px;
+	margin-bottom: 20px;
+	min-height: 1000px;
+}
+.output{
+	height: 436px;
+	margin-top: 8px;
+}
+.input{
+	margin-top: 8px;
+}
+.input .btn-primary{
+	background-color: #fcb103;
+	color: #fff;
+	border : none;
+	
+}
+.input .btn-primary:hover{
+	background-color: transparent;
+	color: #fcb103;
+	border: 1px solid #fcb103;
+	border-radius: 20px;
+}
+.footer-bottom{
+    width: 100%;
+    background-color: #000;
+    left: 0;
+    bottom: 0;
+}
+.usc .logo{
+  margin-top:20px;
+  width: 90px;
+}
